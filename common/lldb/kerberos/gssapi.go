@@ -11,8 +11,8 @@ package kerberos
 // #cgo windows LDFLAGS: -Lc:/sasl/lib
 
 import (
-	"github.com/songyiyang/mongo-tools/common/options"
 	mgo "github.com/10gen/llmgo"
+	"github.com/songyiyang/mongo-tools/common/options"
 )
 
 const authMechanism = "GSSAPI"

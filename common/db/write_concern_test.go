@@ -7,8 +7,8 @@
 package db
 
 import (
-	"github.com/songyiyang/mongo-tools/common/connstring"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/songyiyang/mongo-tools/common/connstring"
 
 	"fmt"
 	"testing"

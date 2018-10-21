@@ -7,8 +7,8 @@
 package bsonutil
 
 import (
-	"github.com/songyiyang/mongo-tools/common/json"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/songyiyang/mongo-tools/common/json"
 	"gopkg.in/mgo.v2/bson"
 	"testing"
 )

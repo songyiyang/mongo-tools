@@ -7,8 +7,8 @@
 package options
 
 import (
-	"github.com/songyiyang/mongo-tools/common/connstring"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/songyiyang/mongo-tools/common/connstring"
 
 	"runtime"
 	"testing"

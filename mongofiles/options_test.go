@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"testing"
 
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/db"
 	"github.com/songyiyang/mongo-tools/common/options"
-	. "github.com/smartystreets/goconvey/convey"
 )
 
 // Regression test for TOOLS-1741

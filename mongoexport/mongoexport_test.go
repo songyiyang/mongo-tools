@@ -8,9 +8,9 @@ package mongoexport
 
 import (
 	"encoding/json"
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/bsonutil"
 	"github.com/songyiyang/mongo-tools/common/testutil"
-	. "github.com/smartystreets/goconvey/convey"
 	"gopkg.in/mgo.v2/bson"
 	"os"
 	"testing"

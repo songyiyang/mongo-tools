@@ -9,9 +9,9 @@ package bsonutil
 import (
 	"encoding/base64"
 	"fmt"
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/json"
 	"github.com/songyiyang/mongo-tools/common/testutil"
-	. "github.com/smartystreets/goconvey/convey"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"testing"

@@ -11,8 +11,8 @@ package failpoint
 import (
 	"testing"
 
-	"github.com/songyiyang/mongo-tools/common/testutil"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/songyiyang/mongo-tools/common/testutil"
 )
 
 func TestFailpointParsing(t *testing.T) {

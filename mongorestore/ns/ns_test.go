@@ -9,9 +9,9 @@ package ns
 import (
 	"testing"
 
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/log"
 	"github.com/songyiyang/mongo-tools/common/options"
-	. "github.com/smartystreets/goconvey/convey"
 )
 
 func init() {

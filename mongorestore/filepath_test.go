@@ -11,6 +11,7 @@ import (
 	"strings"
 	"testing"
 
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/intents"
 	"github.com/songyiyang/mongo-tools/common/log"
 	"github.com/songyiyang/mongo-tools/common/options"
@@ -18,7 +19,6 @@ import (
 	"github.com/songyiyang/mongo-tools/common/testutil"
 	"github.com/songyiyang/mongo-tools/common/util"
 	"github.com/songyiyang/mongo-tools/mongorestore/ns"
-	. "github.com/smartystreets/goconvey/convey"
 )
 
 func init() {

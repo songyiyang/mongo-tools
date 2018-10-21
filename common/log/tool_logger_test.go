@@ -8,8 +8,8 @@ package log
 
 import (
 	"bytes"
-	"github.com/songyiyang/mongo-tools/common/options"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/songyiyang/mongo-tools/common/options"
 	"os"
 	"strings"
 	"testing"

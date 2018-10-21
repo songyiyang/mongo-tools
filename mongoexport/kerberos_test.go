@@ -8,10 +8,10 @@ package mongoexport
 
 import (
 	"bytes"
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/db"
 	"github.com/songyiyang/mongo-tools/common/json"
 	"github.com/songyiyang/mongo-tools/common/testutil"
-	. "github.com/smartystreets/goconvey/convey"
 	"strings"
 	"testing"
 )

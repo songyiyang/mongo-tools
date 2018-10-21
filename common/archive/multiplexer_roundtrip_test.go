@@ -14,9 +14,9 @@ import (
 	"os"
 	"testing"
 
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/db"
 	"github.com/songyiyang/mongo-tools/common/intents"
-	. "github.com/smartystreets/goconvey/convey"
 	"gopkg.in/mgo.v2/bson"
 )
 

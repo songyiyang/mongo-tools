@@ -13,10 +13,10 @@ import (
 	"strings"
 	"testing"
 
+	. "github.com/smartystreets/goconvey/convey"
 	"github.com/songyiyang/mongo-tools/common/log"
 	"github.com/songyiyang/mongo-tools/common/options"
 	"github.com/songyiyang/mongo-tools/common/testutil"
-	. "github.com/smartystreets/goconvey/convey"
 	"gopkg.in/mgo.v2/bson"
 )
 

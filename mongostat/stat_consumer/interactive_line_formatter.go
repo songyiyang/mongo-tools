@@ -14,8 +14,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/songyiyang/mongo-tools/mongostat/stat_consumer/line"
 	"github.com/nsf/termbox-go"
+	"github.com/songyiyang/mongo-tools/mongostat/stat_consumer/line"
 )
 
 // InteractiveLineFormatter produces ncurses-style output

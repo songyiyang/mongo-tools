@@ -7,8 +7,8 @@
 package mongodump
 
 import (
-	"github.com/songyiyang/mongo-tools/common/testutil"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/songyiyang/mongo-tools/common/testutil"
 	"testing"
 )
 
