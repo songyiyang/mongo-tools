@@ -9,8 +9,8 @@
 package db
 
 import (
-	"github.com/mongodb/mongo-tools/common/db/tlsgo"
-	"github.com/mongodb/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/db/tlsgo"
+	"github.com/songyiyang/mongo-tools/common/options"
 )
 
 func init() {

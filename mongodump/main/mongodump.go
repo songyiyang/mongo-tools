@@ -11,12 +11,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/options"
-	"github.com/mongodb/mongo-tools/common/progress"
-	"github.com/mongodb/mongo-tools/common/signals"
-	"github.com/mongodb/mongo-tools/common/util"
-	"github.com/mongodb/mongo-tools/mongodump"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/progress"
+	"github.com/songyiyang/mongo-tools/common/signals"
+	"github.com/songyiyang/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/mongodump"
 )
 
 const (

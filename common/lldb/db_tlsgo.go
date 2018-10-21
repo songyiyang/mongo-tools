@@ -9,8 +9,8 @@
 package lldb
 
 import (
-	"github.com/mongodb/mongo-tools/common/lldb/tlsgo"
-	"github.com/mongodb/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/lldb/tlsgo"
+	"github.com/songyiyang/mongo-tools/common/options"
 )
 
 func init() {

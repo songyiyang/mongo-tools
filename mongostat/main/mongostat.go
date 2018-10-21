@@ -13,15 +13,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/options"
-	"github.com/mongodb/mongo-tools/common/password"
-	"github.com/mongodb/mongo-tools/common/signals"
-	"github.com/mongodb/mongo-tools/common/util"
-	"github.com/mongodb/mongo-tools/mongostat"
-	"github.com/mongodb/mongo-tools/mongostat/stat_consumer"
-	"github.com/mongodb/mongo-tools/mongostat/stat_consumer/line"
-	"github.com/mongodb/mongo-tools/mongostat/status"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/password"
+	"github.com/songyiyang/mongo-tools/common/signals"
+	"github.com/songyiyang/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/mongostat"
+	"github.com/songyiyang/mongo-tools/mongostat/stat_consumer"
+	"github.com/songyiyang/mongo-tools/mongostat/stat_consumer/line"
+	"github.com/songyiyang/mongo-tools/mongostat/status"
 )
 
 // optionKeyNames interprets the CLI options Columns and AppendColumns into

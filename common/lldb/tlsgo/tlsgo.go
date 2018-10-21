@@ -15,10 +15,10 @@ import (
 	"time"
 
 	mgo "github.com/10gen/llmgo"
-	"github.com/mongodb/mongo-tools/common/lldb/kerberos"
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/options"
-	"github.com/mongodb/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/common/lldb/kerberos"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/util"
 )
 
 // TLSDBConnector makes a connection to the database with Go native TLS.

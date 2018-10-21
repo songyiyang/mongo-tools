@@ -9,8 +9,8 @@ package ns
 import (
 	"testing"
 
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/options"
 	. "github.com/smartystreets/goconvey/convey"
 )
 

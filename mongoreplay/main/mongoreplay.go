@@ -8,8 +8,8 @@ package main
 
 import (
 	"github.com/jessevdk/go-flags"
-	"github.com/mongodb/mongo-tools/common/options"
-	"github.com/mongodb/mongo-tools/mongoreplay"
+	"github.com/songyiyang/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/mongoreplay"
 
 	"fmt"
 	"os"

@@ -8,12 +8,12 @@
 package main
 
 import (
-	"github.com/mongodb/mongo-tools/common/db"
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/options"
-	"github.com/mongodb/mongo-tools/common/signals"
-	"github.com/mongodb/mongo-tools/common/util"
-	"github.com/mongodb/mongo-tools/mongofiles"
+	"github.com/songyiyang/mongo-tools/common/db"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/signals"
+	"github.com/songyiyang/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/mongofiles"
 
 	"fmt"
 	"os"

@@ -8,7 +8,7 @@ package mongoreplay
 
 import (
 	"fmt"
-	"github.com/mongodb/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/options"
 	"runtime"
 )
 

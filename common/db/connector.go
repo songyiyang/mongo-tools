@@ -10,9 +10,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/mongodb/mongo-tools/common/db/kerberos"
-	"github.com/mongodb/mongo-tools/common/options"
-	"github.com/mongodb/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/common/db/kerberos"
+	"github.com/songyiyang/mongo-tools/common/options"
+	"github.com/songyiyang/mongo-tools/common/util"
 	"gopkg.in/mgo.v2"
 )
 

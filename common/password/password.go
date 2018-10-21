@@ -10,7 +10,7 @@ package password
 
 import (
 	"fmt"
-	"github.com/mongodb/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/log"
 	"os"
 )
 

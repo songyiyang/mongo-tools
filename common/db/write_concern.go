@@ -7,10 +7,10 @@
 package db
 
 import (
-	"github.com/mongodb/mongo-tools/common/connstring"
-	"github.com/mongodb/mongo-tools/common/json"
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/common/connstring"
+	"github.com/songyiyang/mongo-tools/common/json"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/util"
 	"gopkg.in/mgo.v2"
 
 	"fmt"

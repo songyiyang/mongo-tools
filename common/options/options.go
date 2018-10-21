@@ -18,10 +18,10 @@ import (
 	"time"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/mongodb/mongo-tools/common/connstring"
-	"github.com/mongodb/mongo-tools/common/failpoint"
-	"github.com/mongodb/mongo-tools/common/log"
-	"github.com/mongodb/mongo-tools/common/util"
+	"github.com/songyiyang/mongo-tools/common/connstring"
+	"github.com/songyiyang/mongo-tools/common/failpoint"
+	"github.com/songyiyang/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/util"
 )
 
 // Gitspec that the tool was built with. Needs to be set using -ldflags

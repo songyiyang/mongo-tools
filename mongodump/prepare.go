@@ -14,10 +14,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mongodb/mongo-tools/common/archive"
-	"github.com/mongodb/mongo-tools/common/db"
-	"github.com/mongodb/mongo-tools/common/intents"
-	"github.com/mongodb/mongo-tools/common/log"
+	"github.com/songyiyang/mongo-tools/common/archive"
+	"github.com/songyiyang/mongo-tools/common/db"
+	"github.com/songyiyang/mongo-tools/common/intents"
+	"github.com/songyiyang/mongo-tools/common/log"
 )
 
 type NilPos struct{}

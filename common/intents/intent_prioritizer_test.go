@@ -10,7 +10,7 @@ import (
 	"container/heap"
 	"testing"
 
-	"github.com/mongodb/mongo-tools/common/testutil"
+	"github.com/songyiyang/mongo-tools/common/testutil"
 	. "github.com/smartystreets/goconvey/convey"
 	"gopkg.in/mgo.v2/bson"
 )
